@@ -1,0 +1,19 @@
+{
+  "name": "smartlife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "author": "Ford Lin",
+  "license": "ISC",
+  "private":"false",
+  "scripts": {
+    "start": "node smartlife.js"
+  },
+  "dependencies": {
+    "express":"^4.18.2"
+  },
+  "engines": {
+    "node":">=14"
+  }
+}
